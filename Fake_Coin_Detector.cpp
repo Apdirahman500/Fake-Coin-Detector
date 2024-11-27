@@ -15,7 +15,7 @@ typedef struct input {
 	bool isRightHeavier;
 } input_t;
 
-int main()
+100int main()
 {
 	//Ask user for number of measurements
 	string Measurements;
